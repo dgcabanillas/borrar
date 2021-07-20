@@ -1,1 +1,1 @@
-"console.log('carrousel')" 
+console.log('carrousel')
